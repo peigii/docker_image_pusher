@@ -1,1 +1,1 @@
-okteto/gitlab
+gitlab/gitlab-ce:latest
